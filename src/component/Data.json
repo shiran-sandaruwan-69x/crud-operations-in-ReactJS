@@ -1,0 +1,20 @@
+[
+  {
+    "cusId": "C001",
+    "cusName": "shiran",
+    "email": "shiran@gmail.com",
+    "phone": "07791877704"
+  },
+  {
+    "cusId": "C002",
+    "cusName": "gayan",
+    "email": "gayan@gmail.com",
+    "phone": "0779145323"
+  },
+  {
+    "cusId": "C003",
+    "cusName": "kamal",
+    "email": "kamal@gmail.com",
+    "phone": "07191877304"
+  }
+]
